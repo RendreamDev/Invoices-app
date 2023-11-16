@@ -1,7 +1,7 @@
 <p align="center"><a href="https://rendream.com" target="_blank"><img src="https://portfolio.rendream.com/logo-lg.png" width="400" alt="Rendream"></a></p>
 
 ## About Invoicing App
-Introducing our Invoice App, a versatile and user-friendly tool designed to revolutionize the way you manage your invoicing processes. Whether you're a freelancer, small business owner, or entrepreneur, our app is crafted to simplify the complexities of billing, making your financial transactions seamless and efficient.
+Our Invoice App, a versatile and user-friendly tool designed to revolutionize the way you manage your invoicing processes. Whether you're a freelancer, small business owner, or entrepreneur, our app is crafted to simplify the complexities of billing, making your financial transactions seamless and efficient.
 ## Technologies:
 
  - Laravel Framework 10
